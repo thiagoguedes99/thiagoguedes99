@@ -11,5 +11,7 @@
    * Sempre motivado, interessado, flexível, bom relacionamento com pessoas e equipes, uso meu tempo livre para estudar e aprender mais sobre web, mobile e novas tecnologias.
    
    *Linkedin*: https://br.linkedin.com/in/thiago-guedes-7b0688100
+
    *GitHub*: https://github.com/thiagoguedes99
+
    *Medium*: https://medium.com/@tguedes6
